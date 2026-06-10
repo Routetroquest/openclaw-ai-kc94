@@ -1,4 +1,4 @@
-# 
+# Elite OpenClaw temas. Com engenharia de prompts e código aberto — otimizado para máximo desempenho e eficiência.
 
 
 
